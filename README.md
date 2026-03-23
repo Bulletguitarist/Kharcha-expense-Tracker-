@@ -42,4 +42,6 @@ service cloud.firestore {
 }
 ```
 
-> Without Firebase config, the app runs in **Demo Mode** with sample data — no setup needed to previe
+> Without Firebase config, the app runs in **Demo Mode** with sample data  no setup needed to previe
+>
+> ##THE BRATS (Ashvini Goswami and  Jyotirmoy Mahapatra)
